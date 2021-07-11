@@ -40,8 +40,8 @@ section {
 }
 /*buttons*/
 .btn {
-  cursor:default;
-  border-style: none;
+  cursor:pointer;
+  border:0;
   padding: 6px 12px;
   border-radius: 3px;
   line-height: 1.4;
